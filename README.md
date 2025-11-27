@@ -50,12 +50,12 @@ The prediction pipeline was trained using Scikit-Learn and serialized using Jobl
 The file `student_performance_pipeline.pkl` contains preprocessing + model steps.
 
 **🛠 Technologies Used**
-    - Python
-    - FastAPI
-    - Scikit-Learn
-    - Pandas
-    - Joblib
-    - Docker
+- Python
+- FastAPI
+- Scikit-Learn
+- Pandas
+- Joblib
+- Docker
     - Hugging Face Spaces
 
 ---
