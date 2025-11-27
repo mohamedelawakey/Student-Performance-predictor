@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.pickle
+
+# Virtual environments
+venv/
+env/
+.venv/
+student_performance
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/*.csv
+data/*.xlsx
+data/*.parquet
+
+# Model files
+model/*.pkl
+model/*.joblib
+
+# Logs
+logs/
+*.log
+
+# Cache
+.cache/
+*.cache
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# HuggingFace / Spaces cache
+huggingface/
+hf_cache/
+
+# Docker
+*.env
+docker-compose.override.yml
